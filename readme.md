@@ -49,23 +49,27 @@ I believe in continuous learning and always strive to stay updated with the late
   
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/msasif2000" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/mostafa-s-asif-cse" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/mostafa.asif.cse" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
+  <a href="https://linkedin.com/in/mostafa-s-asif-cse" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://dev.to/ms_asif_cse" target="_blank">
+    <img src="https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white" alt="devto" style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://www.facebook.com/mostafa.asif.cse" target="_blank">
+    <img src="https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" style="margin-bottom: 5px;" />
+  </a>
+</div>
+
 
 <br/>  
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=msasif2000&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=msasif2000&show_icons=true&count_private=true&theme=dracula&hide_border=true" align="center" /></div>  
+  <br/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=msasif2000&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
+<img src="https://raw.githubusercontent.com/msasif2000/msasif2000/output/snake.svg" alt="Snake animation" />
 
