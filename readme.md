@@ -65,10 +65,10 @@ I believe in continuous learning and always strive to stay updated with the late
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=msasif2000&show_icons=true&count_private=true&theme=dracula&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=msasif2000&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
   <br/>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=msasif2000&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=msasif2000&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 <img src="https://raw.githubusercontent.com/msasif2000/msasif2000/output/snake.svg" alt="Snake animation" />
