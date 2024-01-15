@@ -8,7 +8,7 @@
 
 ### 🌱 Currently Learning
 
-I believe in continuous learning and always strive to stay updated with the latest trends. Currently, I'm exploring Next js and Redux.
+I believe in continuous learning and always strive to stay updated with the latest trends. Currently, I'm exploring TypeScript.
 </div>  
   
 
