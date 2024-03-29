@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Mostafa Shahriar Asif, a full-time Frontend developer. I'm passionate about creating web applications that not only look great but also provide a seamless user experience.
+### <div align="center">I'm Mostafa Shahriar Asif, a Full Stack (MERN) Developer. I'm passionate about creating web applications that not only look great but also provide a seamless user experience.
 
 
 ### 🌱 Currently Learning
