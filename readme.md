@@ -43,9 +43,10 @@ I believe in continuous learning and always strive to stay updated with the late
 
 ## My Latest Projects
 
+- [LUMIJOBS](https://github.com/msasif2000/LumiJob-Client)
 - [SAVE LIFE MEDICAL CAMP](https://github.com/msasif2000/save-life-camp-client)
 - [SOFT BLOG](https://github.com/msasif2000/soft-blog-client-side)
-- [PH-TECH SHOP](https://github.com/msasif2000/tech-shop-client-side)
+
 
   
 ## Connect with me  
